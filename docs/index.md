@@ -1,11 +1,14 @@
-# Obsidian Notes
+# The Duke's Game Home Page
 
-Publish your public notes with MkDocs
+### The World
+[[000-Locations-Index]]
+[[000-NPC-index]]
+[[Factions]]
+[[Deities]]
 
-## Hello World!
+### The Adventure
+[[Quests-and-Questions]]
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+[[000-The-Party]]
 
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+[[000-Session-Notes]]
