@@ -1,14 +1,12 @@
 # The Duke's Game Home Page
 
 ### The World
-[[000-Locations-Index]]
-[[000-NPC-index]]
-[[Factions]]
-[[Deities]]
+- [[000-Locations-Index|Locations]]
+- [[000-NPC-index|NPCs]]
+- [[Factions]]
+- [[Deities]]
 
 ### The Adventure
-[[Quests-and-Questions]]
-
-[[000-The-Party]]
-
-[[000-Session-Notes]]
+- [[000-The-Party|The Party]]
+- [[Quests-and-Questions|Quests & Questions]]
+- [[000-Session-Notes|Session Notes]]

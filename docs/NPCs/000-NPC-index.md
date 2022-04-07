@@ -1,12 +1,19 @@
+---
 tags: #NPC 
-
+---
 # NPCs
-[[Blinkdogs]]
-[[Halward-Priest-of-Selune]]
-[[Krahan]]
-[[Lady-Alleah]]
-[[Quick-Ret]]
-[[Randall]]
-[[Sir-Ferro-of-House-Galawin]]
-[[Squire-Marrik]]
-[[Vorian]]
+- [[Blinkdogs]]
+- [[Krahan]]
+- [[Lady-Alleah]]
+
+- [[Sir-Ferro-of-House-Galawin]]
+- [[Squire-Marrik]]
+
+
+## Winterfield
+- [[Halward-Priest-of-Selune|Halward, Priest of Selune]]
+
+## Copperhead
+- [[Vorian]]
+- [[Quick-Ret|Quick Ret]]
+- [[Randall]]

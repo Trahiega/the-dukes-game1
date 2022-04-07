@@ -1,10 +1,10 @@
 tags: #NPC
 
 # Blinkdogs
-Blinkdogs have been raiding the camp nearly every night and stealing rations from [[000-The-Party]].
+Blinkdogs have been raiding the camp nearly every night and stealing rations from [[000-The-Party|the party]].
 
 #### Last Seen
-Whilst camping on [[Bandits-Way]]
+Whilst camping on [[Bandits-Way|Bandit's Way]].
 
 #### Appearance
 
