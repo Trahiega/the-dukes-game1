@@ -6,15 +6,15 @@ date created: 2022-04-07
 game_date: 2022-01-19
 tags: #session-notes
 ---
-# Session 1
+# Session 1 - A mission from the Temple
 Date of session: 2022-01-19
+
 In-game day count: Day 1 to Day 4
+
 318AP (After Plague) towards the end of winter.
 
 ## Session Summary
-The party meets [[Halward-Priest-of-Selune|Halward the priest]] at the Temple of Selune in [[Winterfield]], he sets them the task to retrieve the [[Map-to-the-Arcane-Forge|map to the Arcane Forge]] from [[Quick-Ret|Quick Ret]] in [[Copperhead]].
-
-We set out via the [[Bandits-Way|Bandit's Way]] to Copperhead, and 3 days into our travel we came across the corpses of a group that had been attacked by gnolls, and fought some gnolls that were still scavenging from the bodies.
+The party meets [[Halward-Priest-of-Selune|Halward the priest]] at the Temple of Selune in [[Winterfield]], he sets them the task to retrieve the [[Map-to-the-Arcane-Forge|map to the Arcane Forge]] from [[Quick-Ret|Quick Ret]] in [[Copperhead]]. We set out via the [[Bandits-Way|Bandit's Way]] to Copperhead, and 3 days into our travel we came across the corpses of a group that had been attacked by gnolls, and fought some gnolls that were still scavenging from the bodies. ^summary
 
 ## Log
 ###### D1 Party meets in the Temple of Selune in Winterfield to speak to the priest.
@@ -47,9 +47,9 @@ We set out via the [[Bandits-Way|Bandit's Way]] to Copperhead, and 3 days into o
 		- Light green/teal livery of a noble house.
 		- Arrows in the corpses
 - Combat with Gnolls
-		-1 javelin, thrown
-		 Tree set on fire - make sure to put it out.
-	- Combat ended, fire not spread, javelin collected.
+		~~-1 javelin, thrown~~ recovered
+		 ~~Tree set on fire - make sure to put it out.~~ no forest fire started
+	- Combat ended.
 
 Gnolls are looted and session ended.
 

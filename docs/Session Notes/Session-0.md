@@ -1,4 +1,4 @@
-# Session 0 - A mission from the Temple
+# Session 0
 Date of session: 2022-01-12
 
 [[000-The-Party|The Party]] has been stuck in [[Winterfield]] for roughly a month, in the midst of a bad winter.
@@ -10,5 +10,5 @@ Start date is 318 AP (after plague).
 We are in The Kingdom of Krahan, founded by [[Krahan]], a human paladin.
 The orcs pushed the other races of the land over the river.
 
-###### Map of Shedatha's known world
+#### Shedatha's Map
 ![[Map-of-Mountain-Tribes.png]]
