@@ -1,9 +1,6 @@
 tags: #PC 
 
 # Eachann
-
-
-
 Human Bard
 
 Not a member of the [[Bard's Guild]]

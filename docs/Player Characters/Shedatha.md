@@ -1,12 +1,12 @@
 tags: #PC 
 
 # Shedatha
-My character.
+A Half-Orc Monk/Barbarian.
 
-Half-Orc Barbarian.
+Is teaching [[Eachann]] to speak orcish.
 
 ![[art-Shedatha.jpg|250]]
 
-Is teaching [[Eachann]] to speak orcish.
+
 
 
