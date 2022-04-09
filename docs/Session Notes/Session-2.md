@@ -6,13 +6,13 @@ date created: 2022-04-07
 game_date: 2022-02-02
 tags: #session-notes
 ---
-# Session 2 - Gnolls attack, and the fate of Sir Ferro
+# Session 2 - Gnoll attack, and the fate of Sir Ferro
 Date of session: 2022-02-02
 
 In-game day count: Day 4 to Day 5
 
 ## Session Summary
-The party follows the tracks from the road to the gnoll camp and attacks, killing all but one of the gnolls and rescuing [[Squire-Marrik|Squire Marrik of House Galawin]]. The next day travelling Markus spots sign of a struggle off the road, and we find the dead body of [[Sir-Ferro-of-House-Galawin|Sir Ferro of House Galawin]] not far away. After looting his corpse and unceremoniously transporting the body back to the road, we bury the body and continue on our way.
+The party follows the tracks from the road to the gnoll camp and attacks, killing all but one of the gnolls and rescuing [[Squire-Marrik|Squire Marrik of House Galawin]]. The next day travelling Markus spots sign of a struggle off the road, and we find the dead body of [[Sir-Ferro-of-House-Galawin|Sir Ferro of House Galawin]] not far away. After looting his corpse and unceremoniously transporting the body back to the road, we bury the body and continue on our way. We are able to open the chest and find a magic book and some gemstones inside.
 
 ## Log
 Day 3 of travelling from Winterfield to Copperhead.
@@ -57,10 +57,15 @@ Day 4 of travel.
 - Camped for the night
 	- -1 ration
 	- Opened the locked chest
-		- Book
-		- Pouch of gold
+		- Book written in infernal
+		- Pouch of gold (150 to 200g)
+			- +25gp each +33s each
+			- +2s to Merrik
 		- Gemstones
-		- 
+		- Sword
+		- Dagger
+- Level up to lvl 2
+	- +7 hp, lvl 1 in monk
 
 ## Loose Ends
 

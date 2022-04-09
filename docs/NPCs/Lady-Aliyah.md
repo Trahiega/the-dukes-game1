@@ -1,6 +1,6 @@
 tags: #NPC
 
-# Lady Alleah
+# Lady Aliyah
 
 Half Elf Knight
 
@@ -9,4 +9,4 @@ Heading north through the [[Bandits-Way]] hunting an [[Orc-scouting-party]].
 
 #### Appearance
 Green eyes
-green thorns tatto on face
+green thorns tattoo on face

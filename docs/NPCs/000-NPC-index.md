@@ -4,7 +4,7 @@ tags: #NPC
 # NPCs
 - [[Blinkdogs]]
 - [[Krahan]]
-- [[Lady-Alleah]]
+- [[Lady-Aliyah]]
 
 - [[Sir-Ferro-of-House-Galawin]]
 - [[Squire-Marrik]]
