@@ -7,8 +7,7 @@ game_date: 2022-02-02
 tags: #session-notes
 ---
 # Session 2 - Gnoll attack, and the fate of Sir Ferro
-Date of session: 2022-02-02
-
+Date of session: 2022-02-02  
 In-game day count: Day 4 to Day 5
 
 ## Session Summary
@@ -34,11 +33,11 @@ Day 3 of travelling from Winterfield to Copperhead.
 	- Galawin are rivals to the rulers of the Kingdom ([[House-Brannigan|House Brannigan]])
 		- trying to gain favour
 
-Loot
-+10 rations
-Cart (no animal to pull it)
-Magically locked chest
-Barrel of spices
+**Loot**  
++10 rations  
+Cart (no animal to pull it)  
+Magically locked chest  
+Barrel of spices  
 
 We move away from the gnoll camp and camp for the night. -1 ration.
 

@@ -5,7 +5,6 @@ tags: #NPC
 - [[Blinkdogs]]
 - [[Krahan]]
 - [[Lady-Aliyah]]
-
 - [[Sir-Ferro-of-House-Galawin]]
 - [[Squire-Marrik]]
 
@@ -14,6 +13,6 @@ tags: #NPC
 - [[Halward-Priest-of-Selune|Halward, Priest of Selune]]
 
 ## Copperhead
-- [[Vorian]]
 - [[Quick-Ret|Quick Ret]]
-- [[Randall]]
+	- [[Vorian]]
+	- [[Randall]]

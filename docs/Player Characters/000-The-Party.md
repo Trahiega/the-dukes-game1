@@ -1,13 +1,8 @@
 # The Party
-[[Shedatha]]
-
-[[Markus]] 
-
-[[Skorris]]
-
-[[Eachann]]
-
-[[Ozmir]]
-
+[[Shedatha]]  
+[[Markus]]  
+[[Skorris]]  
+[[Eachann]]  
+[[Ozmir]]  
 [[Jurgen]]
 

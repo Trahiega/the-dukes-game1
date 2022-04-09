@@ -6,6 +6,6 @@ tags: #location
 
 #### Locations
 Blacksmith
-Tavern
+Tavern - Miner's Rest
 
 ##### Temple of Tymora
