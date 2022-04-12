@@ -13,6 +13,6 @@ tags: #NPC
 - [[Halward-Priest-of-Selune|Halward, Priest of Selune]]
 
 ## Copperhead
-- [[Quick-Ret|Quick Ret]]
+- [[Quick-Rhett|Quick Rhett]]
 	- [[Vorian]]
 	- [[Randall]]

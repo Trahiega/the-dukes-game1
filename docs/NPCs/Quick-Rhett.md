@@ -1,7 +1,7 @@
 
 tags: #NPC
 
-# Quick Ret
+# Quick Rhett
 
 #### Last Seen
 
