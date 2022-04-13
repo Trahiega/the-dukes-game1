@@ -11,9 +11,10 @@ Date of session: 2022-03-02
 In-game day count: Day 12
 
 ## Session Summary
-
+Second day in Copperhead, Ozmir awakes having had a strange dream in the night. Shedatha goes around town to try to find more information whilst the rest of the party seeks information on Quick Rhett. Skorris gets into a fight with [[Randall]] after following him from Rhett's house to the tavern. In the evening we decide to go to Rhett's house to try to retrieve the map where we find Vorian & Randall on guard and fight them.
 
 ## Log
+D12: Day 2 in [[Copperhead]]
 - Ozmir had a strange dream
 	- A meteor hits the world leaving a crater
 	- He is clothed in purple & silver robes
@@ -23,8 +24,8 @@ In-game day count: Day 12
 		- A shield with an angry face, shouting but silent.
 		- A closk with scales of melting ice.
 		- A white banner edged in black, stained with blood.
-- Shed went to visit the the Tymple of TYmora to ask about the things in Oz's Dream
-	- Somethign shady going on, people moving boxes into a back room at the temple, claimed they were priests but clearly arent
+- Shed went to visit the the Temple of Tymora to ask about the things in Oz's Dream
+	- Something shady going on, people moving boxes into a back room at the temple, claimed they were priests but clearly arent
 		- Gave the name Fred - 1 of 3 men there
 	- the priest Havarra is covering for them
 		- What is going on here?
@@ -37,7 +38,7 @@ In-game day count: Day 12
 	- Skorris got beat up and knocked unconcious, we took him inside the tavern to recuperate and plan
 - Jurgen went to the post office and found Quick Ret's address, confirming it was the same house we followed Vorian to
 - We decide to head to the house at night.
-- Shed went to the evening service to do her best to make Priest Havarra uncomfortable
+- Shed went to the evening service to do her best to make Priest [[Havarra]] uncomfortable
 
 At the house
 - Knock on the door, no answer

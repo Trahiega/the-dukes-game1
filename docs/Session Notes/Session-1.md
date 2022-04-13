@@ -12,12 +12,12 @@ In-game day count: Day 1 to Day 4
 318AP (After Plague) towards the end of winter.  
 
 ## Session Summary
-The party meets [[Halward-Priest-of-Selune|Halward the priest]] at the Temple of Selune in [[Winterfield]], he sets them the task to Rhettrieve the [[Map-to-the-Arcane-Forge|map to the Arcane Forge]] from [[Quick-Rhett|Quick Rhett]] in [[Copperhead]]. We set out via the [[Bandits-Way|Bandit's Way]] to Copperhead, and 3 days into our travel we came across the corpses of a group that had been attacked by gnolls, and fought some gnolls that were still scavenging from the bodies. ^summary
+The party meets [[Halward-Priest-of-Selune|Halward the priest]] at the Temple of Selune in [[Winterfield]], he sets them the task to retrieve the [[Map-to-the-Arcane-Forge|map to the Arcane Forge]] from [[Quick-Rhett|Quick Rhett]] in [[Copperhead]]. We set out via the [[Bandits-Way|Bandit's Way]] to Copperhead, and 3 days into our travel we came across the corpses of a group that had been attacked by gnolls, and fought some gnolls that were still scavenging from the bodies. ^summary
 
 ## Log
 ###### D1 Party meets in the Temple of Selune in Winterfield to speak to the priest.
 - Halward, late 40s, balding, friendly
-- **100g** each to Rhettrieve the map to the Arcane Forge (in the mountains underground), an item of great value to the Temple of Selune was lost there.
+- **100g** each to retrieve the map to the Arcane Forge (in the mountains underground), an item of great value to the Temple of Selune was lost there.
 	- The Moonlit Crown
 	- "When it is restored to it's rightful place, Selune's glory will be restored to the world" - *Did Halward say this? I don't remember*
 - Quick Rhett has acquired the map and has been forming a group to go out and seek the treasure.

@@ -1,21 +1,21 @@
+---
 tags: #NPC
-
+---
 # Halward, Priest of Selune
-Lives in [[Winterfield]]
+Tends the [[Winterfield#Temple of Selune|Temple of Selune]] in [[Winterfield]]
 
-Tends the [[Winterfield#Temple of Selune]]
+Sent [[000-The-Party|the party]] on a quest to retrieve the [[Map-to-the-Arcane-Forge|map to the Arcane Forge]]
 
-Sent [[000-The-Party]] on a quest to retrieve a [[Map-to-the-Arcane-Forge]]
-
-Warned us to beware of the [[Thieves-Guild]], and to beware travelling to [[Mayhearth]]
-
+Warned us to beware of the [[Thieves-Guild|Thieves' Guild]], and to beware travelling to [[Mayhearth]].
 
 
 #### Last Seen
-In [[Winterfield#Temple of Selune]]
+In [[Winterfield#Temple of Selune|the Temple of Selune]] in [[Winterfield]]
 
 #### Appearance
-
+Late 40s
+Balding
+Friendly
 
 
 

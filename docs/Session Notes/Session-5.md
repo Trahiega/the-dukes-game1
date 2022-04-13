@@ -11,7 +11,10 @@ Date of session: 2022-01-19
 In-game day count: Day 12 to Day 13  
 
 ## Session Summary
-In the basement under Quick Ret's house, after fighting Vorian & Randall who guarding the map
+We quickly leave Quick Rhett's house, the map now in our possession and head back to the inn to rest. After some shopping in the morning, we head out of town in the nick of time as Vorian has escaped her bonds and has brought the Keepers to find us. On our way back through Bandit's Way a group of knights of mixed livery pass by us.
+
+## Log
+D12: In the basement under Quick Ret's house, after fighting Vorian & Randall who guarding the map
 - Took 3 handfuls of questionable herbs, probably poisonous
 - Shed & Skorris tie up Vorian in the basement
 	- Eachann thought we shoudl kill her but after the party talked it out we decided not to.
@@ -20,7 +23,8 @@ In the basement under Quick Ret's house, after fighting Vorian & Randall who gua
 - The map has annotations in Dwravish
 	- Skorris has a ruby with 100g
 - Rest at inn  
-Day 3 in town / Day 1 travelling out fo Copperhead
+
+D13: Day 3 in town / Day 1 travelling out of Copperhead
 - Shopping time
 	- Bought a mule for the cart "Balin"
 	- Bought a winter coat -16g
@@ -33,10 +37,10 @@ Camp
 - -1 ration
 	- Don't forget biography notes for future reference
 
-Day of travel
+D13: Day 2 of travel
 - Hunting, camping, 2 days of food from deer
 
-Day of travel
+D14: Day 3 of travel
 - Met some cavalry on the road
 	- Knights with various livery (see pictures)
 		- [[Knight Bound Hands.png]]
@@ -51,7 +55,7 @@ Day of travel
 
 Making our way into the mountains
 
-## Log
+
 
 
 ## Loose Ends

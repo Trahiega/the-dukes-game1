@@ -8,32 +8,31 @@ tags: #session-notes
 ---
 # Session-6
 Date of session: 2022-01-19  
-In-game day count: Day 1 to Day 1  
+In-game day count: Day 15 to Day 17  
 
 ## Session Summary
-
+Travelling through Bandit's Way the party comes across the corpse of an orc hanging from a tree and several freshly dug graves. Several days into our journey we hear a fight up ahead of us, the group of knights we saw a few days ago have been ambushed by some orcs. We join the fight and help to push the orcs into a retreat. The knights are escorting a [[Royal Messenger]] who has a message for Lady Aliyah, he offers us payment to join their band on the way to Winterfield so we accept.
 
 ## Log
 Back into the mountains
 
-Day of travel -1 ration
+D15: Day 4 of travel -1 ration
 - Hanging body from a tree, Orc
 	- signs of people around, 3 fresh graves
 	- 2 dead horses, look like they were good horses, have been carved up probably for meat
 - Camp
 	- Guarding, Skorris 6, Oz 5, Markus 13, Eachann 22
 
-Day of travel -1 ration
+D16: Day 5 of travel -1 ration
 - 2 more graves along the road
 	- signs of people
 	- looks to be half a day ago
 	- Camp
 
-Day of travel -1 ration
+D17: Day 6 of travel -1 ration
 - We hear a fight up ahead of us
-- Orcs with a white and black banner fighting the knights we saw
+- Orcs with a white and black banner ([[Orcs-of-Tar-Ugruck|Tar Ugruck]]) fighting the knights we saw
 	- Knight with blue clover, saw this livery in the temple of Tymora
-	- [[Orcs-of-Tar-Ugruck|Tar Ugruck]]
 	- Probably the scouting party [[Lady-Aliyah|Lady Aliyah]] was hunting
 - Oz announces us with hsi bagpipes
 Combat
@@ -77,9 +76,11 @@ The knights say they don't pay for or hire mercenaries, but the royal messenger 
  - 1 black & white stallion
 
 Markus is aiding Shed with letter decoding
-	- Coded letter added to foundry
+	- [[Coded Letter for Quick Rhett]] added to foundry
 
 - The knights were bad in the fight, they seem ill trained, peasant knights
 
 ## Loose Ends
+What does the Coded Letter mean?
 
+What is the message for Lady Aliyah?

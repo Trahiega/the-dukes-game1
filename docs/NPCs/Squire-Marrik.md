@@ -1,7 +1,7 @@
 tags: #NPC
 
-Squire Marrik of [[House-Galawin]]
-Was travelling with [[Sir-Ferro-of-House-Galawin]]
+# Squire Marrik of [[House-Galawin]]
+Was travelling with [[Sir-Ferro-of-House-Galawin]] through [[Bandits-Way]] to [[Mayhearth]] when their group was attacked by gnolls. We rescued him from the gnoll camp, gave him 2s and Sir Ferros signet ring before he headed off to Mayhearth.
 
 
 #### Last Seen

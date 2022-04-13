@@ -2,11 +2,11 @@ tags: #NPC
 
 # Lady Aliyah
 
-Half Elf Knight
+A half-elven [[Paladins-of-Tyr|Knight of Tyr]].
 
 #### Last seen
-Heading north through the [[Bandits-Way]] hunting an [[Orc-scouting-party]].
+Heading north through the [[Bandits-Way]] hunting an [[Orc-scouting-party]], [[Session-3]]. Held an orc, a human woman and 2 human children captive.
 
 #### Appearance
 Green eyes
-green thorns tattoo on face
+Green thorns tattoo on face
