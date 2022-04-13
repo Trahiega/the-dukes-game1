@@ -17,3 +17,4 @@ tags: #NPC
 - [[Quick-Rhett|Quick Rhett]]
 	- [[Vorian]]
 	- [[Randall]]
+- [[Havarra]]

@@ -7,5 +7,4 @@ tags: #location
 - [[Copperhead]]
 - [[Fort-Whitall|Fort Whitall]]
 - [[Winterfield]]
-
-![[]]
+- [[Mayhearth]]

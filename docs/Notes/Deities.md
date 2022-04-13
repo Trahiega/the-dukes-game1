@@ -1,3 +1,3 @@
 # Deities
-[[Selune]]
+[[Selune]]  
 [[Tymora-Goddess-of-Luck]]

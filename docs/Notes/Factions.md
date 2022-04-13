@@ -1,9 +1,10 @@
 # Factions
-[[The-Kingdom-of-Krahan]]
-	[[Knights-of-Krahan]]
-	[[Paladins-of-Tyr]]
-	[[The-Keepers]]
-	[[House-Galawin]]
+[[The-Kingdom-of-Krahan]]  
+	[[Knights-of-Krahan]]  
+	[[Paladins-of-Tyr]]  
+	[[The-Keepers]]  
+	[[House-Galawin]]  
+	[[House-Brannigan]]
 
 [[The-League-of-Prosperity]]
 
@@ -11,5 +12,8 @@
 
 [[Vezoca-Dynasty]]
 
-[[Orcs-of-Tar-Ugruck]]
+[[Orcs-of-Tar-Ugruck]]  
 	[[Orc-scouting-party]]
+
+[[The-Grin]]
+
