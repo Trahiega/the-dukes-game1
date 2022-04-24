@@ -1,11 +1,11 @@
 # Wishlist
 ## Images
-Maps
+Maps  
 - [ ] Map of Winterfield
 - [ ] Map of Copperhead
 - [ ] Map to the Arcane Forge
 
-NPCs
+NPCs  
 - [ ] Sir Fared Dalan, Royal Messenger
 - [ ] Lady Aliyah
 - [ ] Vorian
@@ -14,14 +14,14 @@ NPCs
 - [ ] Squire Marrik
 - [ ] Marthy  
 
-Party images
+Party images  
 - [ ] Markus
 - [ ] Eachann
 - [ ] Jurgen
 - [ ] Ozmir
 - [ ] Skorris
 
-Other images
+Other images  
 - [ ] Knight images
 	- [ ] Bound hands red/white
 	- [ ] Flaming sword red/yellow
@@ -33,5 +33,6 @@ Other images
 - [ ] Orcs
 	- [ ]  [[Orc.png]] 
 	- [ ] [[Orc-leader-of-scouting-party.png]]
-## Lore
+
+## Lore  
 - [ ] List of Deities
