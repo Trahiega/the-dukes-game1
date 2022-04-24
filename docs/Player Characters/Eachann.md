@@ -14,4 +14,5 @@ Has a friendly rivalry with [[Ozmir]]
 
 Plays the lute?
 
-Is learning Orcish from [[Shedatha]]
+Is learning Orcish from [[Shedatha]]  
+![[Eachann.png]]

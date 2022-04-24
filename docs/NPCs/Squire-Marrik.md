@@ -10,6 +10,6 @@ Marrik separated from the party & headed to [[Mayhearth]] whilst the party went 
 
 
 #### Appearance
-
+![[Marrik.png]]
 
 

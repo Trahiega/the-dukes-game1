@@ -4,7 +4,7 @@ world: "Cruidan"
 campaign: "The Duke's Game"
 date created: 2022-04-07
 game_date: 2022-02-02
-tags: #session-notes
+tags: session-notes
 ---
 # Session 2 - Gnoll attack, and the fate of [[Sir-Ferro-of-House-Galawin|Sir Ferro]]
 Date of session: 2022-02-02  
@@ -14,7 +14,7 @@ In-game day count: Day 4 to Day 5
 The party follows the tracks from the road to the gnoll camp and attacks, killing all but one of the gnolls and rescuing [[Squire-Marrik|Squire Marrik of House Galawin]]. The next day travelling Markus spots sign of a struggle off the road, and we find the dead body of [[Sir-Ferro-of-House-Galawin|Sir Ferro of House Galawin]] not far away. After looting his corpse and unceremoniously transporting the body back to the road, we bury the body and continue on our way. We are able to open the chest and find a magic book and some gemstones inside.
 
 ## Log
-D4: Day 3 of travelling through the [[Bandits-Way]] from Winterfield to Copperhead.
+##### D4: Day 3 of travelling through the [[Bandits-Way]] from Winterfield to Copperhead.
 
 ###### The gnoll camp
 - We investigate the site of the gnoll attack and find tracks leading away.
@@ -41,7 +41,7 @@ Barrel of spices
 
 We move away from the gnoll camp and camp for the night. -1 ration.
 
-D5: Day 4 of travel.
+##### D5: Day 4 of travel.
 - Markus spots a scrap of light green/teal cloth off the road, looking closer there are also gnoll arrows
 - tracks off the road and up the slope
 	- Oz & Jurgen scout it out

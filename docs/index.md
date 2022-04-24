@@ -3,11 +3,11 @@
 ### The World
 - [[000-Locations-Index|Locations]]
 - [[000-NPC-index|NPCs]]
-- [[Factions]]
+- [[000-Factions|Factions]]
 - [[Deities]]
 
 ### The Adventure
-- [[000-The-Party|The Party]]
+- [[The-Party|The Party]]
 - [[Quests-and-Questions|Quests & Questions]]
 - [[000-Session-Notes|Session Notes]]
 

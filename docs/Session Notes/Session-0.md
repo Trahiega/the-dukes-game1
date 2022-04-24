@@ -4,12 +4,12 @@ world: "Cruidan"
 campaign: "The Duke's Game"
 date created: 2022-04-07
 game_date: 2022-01-19
-tags: #session-notes
+tags: session-notes
 ---
 # Session 0
 Date of session: 2022-01-12
 
-[[000-The-Party|The Party]] has been stuck in [[Winterfield]] for roughly a month, in the midst of a bad winter.  
+[[The-Party|The Party]] has been stuck in [[Winterfield]] for roughly a month, in the midst of a bad winter.  
 [[Halward-Priest-of-Selune|Halward]] the priest at the [[Winterfield#Temple of Selune|Temple of Selune]] has a quest for the party.
 
 ##### Lore

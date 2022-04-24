@@ -3,13 +3,13 @@ tags: NPC
 aliases: [Quick Rhett, Rhett]
 ---
 # Quick Rhett
-Has a home in [[Copperhead]], was in possession of the [[Map-to-the-Arcane-Forge|map to the Arcane Forge]] that the party was tasked with retrieving.
+Owes a debt to [[The-Crimson-Grin|The Grin]].
 
-Was in Winterfield bragging about having the map.
+Has a home in [[Copperhead]], was in possession of the [[Map-to-the-Arcane-Forge|map to the Arcane Forge]] that the party was tasked with retrieving. Wants to be a treasure hunter.
 
 Has connections to the [[Thieves-Guild|Thieves' Guild]].
 
-Despite [[Halward-Priest-of-Selune|Halward]] describing Rhett as a thief, when we asked around Copperhead about him he seemed to be well respected.
+Halward discovered Rhett had the map as he was in Winterfield bragging about having it. Despite [[Halward-Priest-of-Selune|Halward]] describing Rhett as a thief, when we asked around Copperhead about him he seemed to be well respected.
 
 #### Known relationships
 [[Vorian]] & [[Randall]] were guarding the map at Rhett's house in Copperhead

@@ -6,3 +6,5 @@ aliases: [Oz]
 Tiefling Rogue
 
 Plays the bagpipes
+
+![[Ozmir.png]]

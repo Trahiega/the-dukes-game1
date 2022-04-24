@@ -14,5 +14,5 @@ Has a red tattoo of a grinning mouth, possible member of [[The-Crimson-Grin|The 
 In Copperhead entering the tavern with several Keepers after we had broken into [[Quick-Rhett|Rhett]]'s house to steal the [[Map-to-the-Arcane-Forge]].
 
 #### Appearance
-
+![[Vorian.png]]
 

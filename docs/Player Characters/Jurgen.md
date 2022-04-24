@@ -5,5 +5,7 @@ tags: PC
 Dragonborn Sorcerer, military, [[Silver Scales]], 
 Hates Orcs.
 
-###### Appearance
+##### Appearance
 A Gold dragon born, with black war paint
+
+![[Jurgen.png]]

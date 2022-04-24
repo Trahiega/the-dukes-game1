@@ -4,7 +4,7 @@ world: "Cruidan"
 campaign: "The Duke's Game"
 date created: 2022-04-09
 game_date: 2022-03-02
-tags: #session-notes
+tags: session-notes
 ---
 # Session-4
 Date of session: 2022-03-02  
@@ -14,7 +14,7 @@ In-game day count: Day 12
 Second day in Copperhead, Ozmir awakes having had a strange dream in the night. Shedatha goes around town to try to find more information whilst the rest of the party seeks information on [[Quick-Rhett|Quick Rhett]]. Skorris gets into a fight with [[Randall]] after following him from [[Quick-Rhett|Rhett]]'s house to the tavern. In the evening we decide to go to [[Quick-Rhett|Rhett]]'s house to try to retrieve the map where we find Vorian & Randall on guard and fight them.
 
 ## Log
-D12: Day 2 in [[Copperhead]]
+##### D12: Day 2 in [[Copperhead]]
 - Ozmir had a strange dream
 	- A meteor hits the world leaving a crater
 	- He is clothed in purple & silver robes
