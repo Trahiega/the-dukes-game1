@@ -48,7 +48,7 @@ D10: Day 9 of travelling
 	- hunting
 
 D11: Day 10 of travel, we arrive in [[Copperhead]] in the late afternoon
-- We need to find Quick Rhett
+- We need to find [[Quick-Rhett|Quick Rhett]]
 - [[The-Keepers|Keeper's]] Tower outside the village
 - Ozmir pulls out his bagpipes to the guards
 	- [[Vezoca-Dynasty]] are a source of spices
@@ -76,7 +76,7 @@ D11: Day 10 of travel, we arrive in [[Copperhead]] in the late afternoon
 
 
 ## Loose Ends
-- Need to get the equipment from Sir Ferro checked out
+- Need to get the equipment from [[Sir-Ferro-of-House-Galawin|Sir Ferro]] checked out
 - Stake out the house Oz followed Vorian to.
 
 

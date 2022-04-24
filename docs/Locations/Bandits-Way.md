@@ -1,5 +1,7 @@
-tags: #location
-
+---
+tags: location 
+aliases: [Bandit's Way]
+---
 # Bandit's Way
 Southwest of [[Winterfield]], Northeast of [[Copperhead]].
 

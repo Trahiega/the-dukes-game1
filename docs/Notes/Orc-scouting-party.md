@@ -1,5 +1,6 @@
-tags: #faction
-
+---
+tags: faction
+---
 # Orc scouting party
 [[Orcs-of-Tar-Ugruck]]
 Was spotted near [[Fort-Whitall]]

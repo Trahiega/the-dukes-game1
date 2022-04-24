@@ -1,3 +1,4 @@
-tags: #faction
-
+---
+tags: faction
+---
 # Knights of Krahan

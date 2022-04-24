@@ -1,6 +1,3 @@
----
-tags: #location 
----
 # Locations Index
 # [The Kingdom of Krahan](The-Kingdom-of-Krahan.md)
 - [[Bandits-Way|Bandit's Way]]

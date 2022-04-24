@@ -15,5 +15,5 @@
 [[Orcs-of-Tar-Ugruck]]  
 	[[Orc-scouting-party]]
 
-[[The-Grin]]
+[[The-Crimson-Grin]]
 

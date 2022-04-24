@@ -1,5 +1,6 @@
 ---
-tags: #NPC
+tags: NPC
+aliases: [Halward]
 ---
 # Halward, Priest of Selune
 Tends the [[Winterfield#Temple of Selune|Temple of Selune]] in [[Winterfield]]
@@ -16,6 +17,8 @@ In [[Winterfield#Temple of Selune|the Temple of Selune]] in [[Winterfield]]
 Late 40s
 Balding
 Friendly
+
+[[The-Kingdom-of-Krahan#Settlements]]
 
 
 

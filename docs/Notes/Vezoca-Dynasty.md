@@ -1,5 +1,8 @@
-tags: #faction
-
+---
+tags: faction
+---
 # Vezoca Dynasty
-
-Source of spices
+Another human empire.
+Enemy of [[The-Kingdom-of-Krahan|The Kingdom of Krahan]]
+Has an emperor.
+Source of spices.

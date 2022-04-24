@@ -1,5 +1,6 @@
 ---
-tags: #NPC 
+tags: NPC 
+aliases: [NPCs]
 ---
 # NPCs
 - [[Blinkdogs]]
@@ -7,7 +8,7 @@ tags: #NPC
 - [[Lady-Aliyah]]
 - [[Sir-Ferro-of-House-Galawin]]
 - [[Squire-Marrik]]
-- [[Royal Messenger]]
+- [[Sir Fared Dalan Royal Messenger]]
 
 
 ## Winterfield

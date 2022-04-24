@@ -11,7 +11,7 @@ Date of session: 2022-01-19
 In-game day count: Day 15 to Day 17  
 
 ## Session Summary
-Travelling through Bandit's Way the party comes across the corpse of an orc hanging from a tree and several freshly dug graves. Several days into our journey we hear a fight up ahead of us, the group of knights we saw a few days ago have been ambushed by some orcs. We join the fight and help to push the orcs into a retreat. The knights are escorting a [[Royal Messenger]] who has a message for Lady Aliyah, he offers us payment to join their band on the way to Winterfield so we accept.
+Travelling through [[Bandits-Way|Bandit's Way]] the party comes across the corpse of an orc hanging from a tree and several freshly dug graves. Several days into our journey we hear a fight up ahead of us, the group of knights we saw a few days ago have been ambushed by some orcs. We join the fight and help to push the orcs into a retreat. The knights are escorting a [[Sir Fared Dalan Royal Messenger]] who has a message for [[Lady-Aliyah|Lady Aliyah]], he offers us payment to join their band on the way to Winterfield so we accept.
 
 ## Log
 Back into the mountains
@@ -56,7 +56,7 @@ The Knights
 		- separated from the knights that were fighting the orcs
 		- young, fancy armour
 	- They were escorting a royal messenger
-		- message for Lady Aliyah
+		- message for [[Lady-Aliyah|Lady Aliyah]]
 
 - Added loot to party inventory on foundry
 	- 8 javelins
@@ -71,7 +71,7 @@ The Knights
 
 - 16 crossbow bolts to Eachann
 
-The knights say they don't pay for or hire mercenaries, but the royal messenger offers us payment of 2 horses if we will join htem on the way to Winterfield to deliver his message to Lady Aliyah
+The knights say they don't pay for or hire mercenaries, but the royal messenger offers us payment of 2 horses if we will join htem on the way to Winterfield to deliver his message to [[Lady-Aliyah|Lady Aliyah]]
  - 1 brown mare
  - 1 black & white stallion
 
@@ -83,4 +83,4 @@ Markus is aiding Shed with letter decoding
 ## Loose Ends
 What does the Coded Letter mean?
 
-What is the message for Lady Aliyah?
+What is the message for [[Lady-Aliyah|Lady Aliyah]]?

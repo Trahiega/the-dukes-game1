@@ -1,11 +1,8 @@
-tags: #NPC
+---
+tags: NPC
+aliases: [The Paladin of Tyr]
+---
+# Krahan
+Founder of [[The-Kingdom-of-Krahan|The Kingdom of Krahan]] and the [[Paladins-of-Tyr|Paladins of Tyr]].
 
-# Krahan (presumably dead)
-A paladin of the [[Paladins-of-Tyr]] and founder of [[The-Kingdom-of-Krahan]]
-
-#### Last Seen
-
-
-#### Appearance
-
-
+The Paladin of Tyr.

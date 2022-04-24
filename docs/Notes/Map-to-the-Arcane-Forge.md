@@ -1,5 +1,7 @@
-tags: #quest
-
+---
+tags: quest
+aliases: [map to the arcane forge]
+---
 # Map to the Arcane Forge
 
 [[Halward-Priest-of-Selune|Halward]] tasked [[000-The-Party|the party]] with retrieving the map and returning it to him.

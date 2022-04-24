@@ -10,3 +10,5 @@
 - [[000-The-Party|The Party]]
 - [[Quests-and-Questions|Quests & Questions]]
 - [[000-Session-Notes|Session Notes]]
+
+[[Wishlist]]

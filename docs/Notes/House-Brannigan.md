@@ -1,5 +1,5 @@
 ---
-tags: #faction
+tags: faction
 ---
 # House Brannigan
 Livery: Blue & White

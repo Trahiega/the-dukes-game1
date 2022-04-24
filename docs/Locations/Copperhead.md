@@ -1,5 +1,6 @@
-tags: #location 
-
+---
+tags: location 
+---
 # Copperhead
 
 [[The-Keepers]] keep the peace in Copperhead and patrol the outskirts of the town.

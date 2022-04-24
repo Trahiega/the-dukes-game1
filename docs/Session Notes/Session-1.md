@@ -16,26 +16,26 @@ The party meets [[Halward-Priest-of-Selune|Halward the priest]] at the Temple of
 
 ## Log
 ###### D1 Party meets in the Temple of Selune in Winterfield to speak to the priest.
-- Halward, late 40s, balding, friendly
+- [[Halward-Priest-of-Selune|Halward]], late 40s, balding, friendly
 - **100g** each to retrieve the map to the Arcane Forge (in the mountains underground), an item of great value to the Temple of Selune was lost there.
 	- The Moonlit Crown
-	- "When it is restored to it's rightful place, Selune's glory will be restored to the world" - *Did Halward say this? I don't remember*
-- Quick Rhett has acquired the map and has been forming a group to go out and seek the treasure.
+	- "When it is restored to it's rightful place, Selune's glory will be restored to the world" - *Did [[Halward-Priest-of-Selune|Halward]] say this? I don't remember*
+- [[Quick-Rhett|Quick Rhett]] has acquired the map and has been forming a group to go out and seek the treasure.
 	- Home in Copperhead
-	- Halward describes Rhett as a short human, and a boastful thief.
-	- Rhett has a friend in the Thieves' Guild
-- Warnings from Halward
+	- [[Halward-Priest-of-Selune|Halward]] describes [[Quick-Rhett|Rhett]] as a short human, and a boastful thief.
+	- [[Quick-Rhett|Rhett]] has a friend in the Thieves' Guild
+- Warnings from [[Halward-Priest-of-Selune|Halward]]
 	- Beware the Thieves' Guild
 	- Beware heading to Mayhearth
 
 ###### Routes to Copperhead
-1. Through Bandit's Way, about 2 weeks travel.
+1. Through [[Bandits-Way|Bandit's Way]], about 2 weeks travel.
 2. The King's Road through the mountains (Krahan's grave*(sp?)* fortress)
 3. Round the mountain
 4. Under the mountain, about a month
 
 - Skorris strongly insists he can lead us under the mountain.
-- We decide to go with 1. Through Bandit's Way and the party splits to rest up for the night, to meet back at the temple in the morning.
+- We decide to go with 1. Through [[Bandits-Way|Bandit's Way]] and the party splits to rest up for the night, to meet back at the temple in the morning.
 
 ###### D2-D4 Travel to Copperhead
 - Day 1, nothing happens on the road. We head to a farmstead in the evening, charged us 1c each to stay in the barn, Eachann and Oz entertained them, Shed & Skorris caught a boar for dinner.

@@ -1,14 +1,14 @@
 # Quests & Questions
+## To-do
 
-- Retrieve the [[Map-to-the-Arcane-Forge|map to the Arcane Forge]]
-	- Quest from [[Halward-Priest-of-Selune|Halward]], Reward: 100g each
-	- We retrieved the map from Copperhead and are heading back to Winterfield with it.
 
+
+## Quests
 - Who or what is stealing rations from our camp at night?
 
 
-- #### Sir Ferro's belongings.
-- Need to get the equipment from Sir Ferro checked out
+#### [[Sir-Ferro-of-House-Galawin|Sir Ferro]]'s belongings.
+- Need to get the equipment from [[Sir-Ferro-of-House-Galawin|Sir Ferro]] checked out
 	- Sword
 	- Dagger
 - We recovered a chest from [[Bandits-Way]] in [[Session-2]].
@@ -33,5 +33,11 @@
 		- A band of silver etched with the phases of the moon.
 		- A suit of armour on fire.
 		- A shield with an angry face, shouting but silent.
-		- A closk with scales of melting ice.
+		- A cloak with scales of melting ice.
 		- A white banner edged in black, stained with blood.
+
+
+### Completed Quests
+- Retrieve the [[Map-to-the-Arcane-Forge|map to the Arcane Forge]]
+	- Quest from [[Halward-Priest-of-Selune|Halward]], Reward: 100g each
+	- We retrieved the map from Copperhead and returned it.

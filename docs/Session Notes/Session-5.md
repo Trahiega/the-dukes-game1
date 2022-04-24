@@ -11,7 +11,7 @@ Date of session: 2022-01-19
 In-game day count: Day 12 to Day 13  
 
 ## Session Summary
-We quickly leave Quick Rhett's house, the map now in our possession and head back to the inn to rest. After some shopping in the morning, we head out of town in the nick of time as Vorian has escaped her bonds and has brought the Keepers to find us. On our way back through Bandit's Way a group of knights of mixed livery pass by us.
+We quickly leave [[Quick-Rhett|Quick Rhett]]'s house, the map now in our possession and head back to the inn to rest. After some shopping in the morning, we head out of town in the nick of time as Vorian has escaped her bonds and has brought the Keepers to find us. On our way back through [[Bandits-Way|Bandit's Way]] a group of knights of mixed livery pass by us.
 
 ## Log
 D12: In the basement under Quick Ret's house, after fighting Vorian & Randall who guarding the map

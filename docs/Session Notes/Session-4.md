@@ -11,7 +11,7 @@ Date of session: 2022-03-02
 In-game day count: Day 12
 
 ## Session Summary
-Second day in Copperhead, Ozmir awakes having had a strange dream in the night. Shedatha goes around town to try to find more information whilst the rest of the party seeks information on Quick Rhett. Skorris gets into a fight with [[Randall]] after following him from Rhett's house to the tavern. In the evening we decide to go to Rhett's house to try to retrieve the map where we find Vorian & Randall on guard and fight them.
+Second day in Copperhead, Ozmir awakes having had a strange dream in the night. Shedatha goes around town to try to find more information whilst the rest of the party seeks information on [[Quick-Rhett|Quick Rhett]]. Skorris gets into a fight with [[Randall]] after following him from [[Quick-Rhett|Rhett]]'s house to the tavern. In the evening we decide to go to [[Quick-Rhett|Rhett]]'s house to try to retrieve the map where we find Vorian & Randall on guard and fight them.
 
 ## Log
 D12: Day 2 in [[Copperhead]]
@@ -61,7 +61,7 @@ At the house
 			- wants to be a treasure hunter
 		- Vorian & Randall were guarding the map
 - +30g +50s
-- Level up, took level in monk +5hp
+- Level up level 3, took level in monk +5hp
 	- Gained Ki Points
 
 ## Loose Ends

@@ -6,7 +6,7 @@ date created: 2022-04-07
 game_date: 2022-02-02
 tags: #session-notes
 ---
-# Session 2 - Gnoll attack, and the fate of Sir Ferro
+# Session 2 - Gnoll attack, and the fate of [[Sir-Ferro-of-House-Galawin|Sir Ferro]]
 Date of session: 2022-02-02  
 In-game day count: Day 4 to Day 5
 
@@ -50,7 +50,7 @@ D5: Day 4 of travel.
 - Oz loots the man's body then insists that we pull the corpse up the slope.
 	- so I pull Oz up, then the corpse, then walk off leaving Jurgen & Markus to deal with it
 - Jurgen proceeds to kick/throw/slide the corpse down the side of the cliff, falling some ways himself in the process.
-- [[Squire-Marrik|Marrik]] informs us the corpse belongs to Sir Ferro.
+- [[Squire-Marrik|Marrik]] informs us the corpse belongs to [[Sir-Ferro-of-House-Galawin|Sir Ferro]].
 	- Ferro's signet ring is given to Marrik.
 	- We buried the body by the road.
 - Camped for the night

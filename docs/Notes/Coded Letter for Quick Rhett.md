@@ -1,6 +1,10 @@
-You are to do as my two associates say, you owe us Rhett
+---
+tags: DMfiles
+---
+# Coded Letter for Quick Rhett
+You are to do as my two associates say, you owe us [[Quick-Rhett|Rhett]]
 
-The Grin does not forget or forgive.
+[[The-Crimson-Grin|The Grin]] does not forget or forgive.
 
 Do not make us visit the red smile upon you or anyone else in your name.
 

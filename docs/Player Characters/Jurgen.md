@@ -1,5 +1,6 @@
-tags: #PC 
-
+---
+tags: PC 
+---
 # Jurgen
 Dragonborn Sorcerer, military, [[Silver Scales]], 
 Hates Orcs.

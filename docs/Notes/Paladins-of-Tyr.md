@@ -1,10 +1,13 @@
-tags: #faction
-
+---
+tags: faction
+aliases: [Paladins of Tyr, Paladins]
+---
 # Paladins of Tyr
+Deity: [[Tyr]]
 
-###### Known Members
+## Known Members
 [[Krahan]] - Founder
-[[Lady-Aliyah]]
+[[Lady-Aliyah|Lady Aliyah]]
 
-#### Encounters
-We met a group heading North through [[Bandits-Way]], led by [[Lady-Aliyah]] hunting an [[Orc-scouting-party]].
+## Encounters
+We met a group heading North through [[Bandits-Way|Bandit's Way]], led by [[Lady-Aliyah|Lady Aliyah]] hunting an [[Orc-scouting-party]].
