@@ -1,11 +1,11 @@
 # Wishlist
 ## Images
-Maps  
+#### Maps  
 - [x] Map of Winterfield
 - [x] Map of Copperhead
 - [x] Map to the Arcane Forge
 
-NPCs  
+#### NPCs   
 - [x] Sir Fared Dalan, Royal Messenger
 - [x] Lady Aliyah
 - [x] Vorian
@@ -14,14 +14,14 @@ NPCs
 - [x] Squire Marrik
 - [x] Marphi
 
-Party images  
+#### Party images  
 - [x] Markus
 - [x] Eachann
 - [x] Jurgen
 - [x] Ozmir
 - [x] Skorris
 
-Other images  
+#### Other images  
 - [x] Knight images
 	- [x] Bound hands red/white
 	- [x] Flaming sword red/yellow

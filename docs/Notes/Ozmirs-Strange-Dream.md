@@ -1,6 +1,8 @@
 ---
 tags:
 ---
+# Ozmir's Strange Dream
+
 [[Ozmir]] had a strange dream.
 
 A meteor falls from the sky leaving a huge crater.

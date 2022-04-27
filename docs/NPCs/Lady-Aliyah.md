@@ -10,6 +10,7 @@ Her mother lives in [[Mayhearth]] and is a woman of means. [^1] ^cf5283
 
 [^1]: See: [[Session-7#^fa76c5]]
 
+
 #### Last seen
 In Winterfield in [[Session-7|Session 7]].
 	

@@ -1,7 +1,8 @@
-# The Dream
-
-Shared Dream
-
+---
+tags: DMfiles
+aliases: [The  Party's Shared Dream]
+---
+# The  Party's Shared Dream
 Whoever is on watch will experience the dream over a few seconds
 
 You are awoken for your watch, you find a comfortable spot and stare off into the night, looking and listening for danger, after a while, all of a sudden your eye lids start to droop, your head lols to the side as for a moment you fall asleep, in that moment you experience a vivid dream before snapping awake.

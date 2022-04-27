@@ -1,3 +1,4 @@
+# Note formatting
 ## Line Spacing
 Markdown renders a single linebreaks if they are preceded by two spaces. That's how you do a linebreak instead of new paragraph.
 

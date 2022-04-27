@@ -12,7 +12,7 @@ Date of session: 2022-04-13
 In-game day count: Day 18 to Day 22   
 
 ## Session Summary
-We travelled back into Winterfield with the knights & the Royal Messenger, and started to all have [[The Dream]] each night. Upon arriving at Winterfield we headed to the Temple to see [[Halward-Priest-of-Selune|Halward]], he was expecting us and told us [[Lady-Aliyah|Lady Aliyah]] wanted to know when we arrived. [[Lady-Aliyah|Lady Aliyah]] tested the trustworthiness of the party, apart from Shed (who has the trust of her god, [[Tyr]]), and we talked about [[The Dream]] we had been having as a group, the Arcane Forge, Halwards prophecy and Halwards and Lady A's dreams.  
+We travelled back into Winterfield with the knights & the Royal Messenger, and started to all have [[The-Partys-Shared-Dream]] each night. Upon arriving at Winterfield we headed to the Temple to see [[Halward-Priest-of-Selune|Halward]], he was expecting us and told us [[Lady-Aliyah|Lady Aliyah]] wanted to know when we arrived. [[Lady-Aliyah|Lady Aliyah]] tested the trustworthiness of the party, apart from Shed (who has the trust of her god, [[Tyr]]), and we talked about [[The-Partys-Shared-Dream]] we had been having as a group, the Arcane Forge, Halwards prophecy and Halwards and Lady A's dreams.  
 We headed to the tavern afterwards to rest for the night and to consider our next move.
 
 ## Log
@@ -50,7 +50,8 @@ The party move back to their own camp and talk about the [[Coded Letter for Quic
 - ~~Need to ask [[Halward-Priest-of-Selune|Halward]] how he found out how [[Quick-Rhett|Rhett]] had the map~~
 	- Rhett was in Winterfield bragging
 
-We rest for the night and during Shed's watch she falls asleep for what seems like just a moment and all of the party experience [[The Dream|a shared dream]], like the one Ozmir has been having.
+###### We all have the dream for the first time.
+We rest for the night and during Shed's watch she falls asleep for what seems like just a moment and all of the party experience [[The-Partys-Shared-Dream|a shared dream]], like the one Ozmir has been having.
 (I have excluded my handwritten notes in favour of the write up from DM). 
 - Need to ask Ozmir if his dream was the same all of the time and he omitted information when he told us about it
 - Some aspects of shimmering orc banner images remind me of a long forgotten memory but I can't quite grasp it.
@@ -61,20 +62,20 @@ Party checks about the livery of the knights
 - Horse/chess piece knights - Knights of the red
 
 Oz asks Shed about Selune's sister
-- Sha, the goddess of night
+- [[Shar]], the goddess of night
 
 We go back to sleep, with no more dreams.
 
 ##### D19: Day 7 of travel
 - Eachann plays us some ballads
-- day passes without incident
+- Day passes without incident
 - Camp for the night -1 ration
 
 ##### D20: Day 8 of travel, the tale of Lod, who was lost
 - Skorris plays us a little of the Dwarven song, [[Lods-Lost|Lod's Lost]]
 	- The ballad of a dwarf lost in the tunnels, who carved a flute from the support beams so he could guide his brethren to him.
 - Camp -1 ration
-	- We all have [[the dream]] again, same time of night during Shed's watch.
+	- We all have [[The-Partys-Shared-Dream]] again, same time of night during Shed's watch.
 
 ##### D21: Day 9 of travel
 - Bad breakfast
@@ -92,7 +93,7 @@ We go back to sleep, with no more dreams.
 - Eachann says he is from a simple farming village near the mountains
 	- has never been in a set of armour
 - Eachann & Markus note that as the two humans of the group, they "share" a particular part of the dream.
-- Skorris has heard secrets of things in the mountain [[Morbadir]], it was lost to the trolls many years ago.
+- Skorris has heard secrets of things in the mountain [[Morbadir]], it was lost to the trolls many years ago. ^fdf6d4
 	- [[Morbadir]] is 1 week west of Winterfield
 	- Markus has been deciphering the notebook that we got with the map (forgot to add this to previous session notes)
 
@@ -122,6 +123,7 @@ We go back to sleep, with no more dreams.
 
 ###### [[Lady-Aliyah|Lady Aliyah]] arrives at the temple
 [[Lady-Aliyah|Lady Aliyah]] arrives at the temple with two knights & [[Marphi]]  
+
 - She orders the knights to Secure the temple, no-one in or out and they both go outside
 - She asks for an agreement to secrecy, nothing we discuss here must leave this temple
 	- Wishes to cast a truth spell on us and ask us each 3 questions
@@ -131,7 +133,7 @@ We go back to sleep, with no more dreams.
 2. What do you know of [[The-Crimson-Grin|the Crimson Grin]]?
 3. Have any of you been sent here looking for someone specifically?
 	- Markus is looking for the Arcane Forge
-	- Arcane Forge may be the human name for a Dwarven thing
+	- [[The-Arcane-Forge|Arcane Forge]] may be the human name for a Dwarven thing
 
 Lady Aliyah relaxes after asking her questions of each of the party
 - The woman and the 2 kids we saw in the wagon are ok
@@ -142,13 +144,13 @@ Lady Aliyah relaxes after asking her questions of each of the party
 
 Oz asks what the dream has to do with anything?
 Halward & Aliyah have both had dreams about Shedatha
-- Shed explains the dream the party has had to Halwardand Lady A
+- Shed explains the dream the party has had to Halward and Lady A
 
 Aliyah
-- She does nto know what god the dreams could have come from
+- She does not know what god the dreams could have come from
 - She thought visions were fairytales until she had one
 
-We ask about [[the dream]] Halwardnad Lady Aliyahhave had
+We ask about [[Aliyah-and-halwards-dream|the dreams Lady Aliyah and Halward]] have had
 - Shed is walking a path beset with darkness
 - A man appears to them, blind with one hand
 	- He says that Shedatha must not fall into darkness
@@ -164,8 +166,8 @@ We ask about [[the dream]] Halwardnad Lady Aliyahhave had
 Suggests that we may want to travel with her to Mayhearth
 
 Halward
-- Shedatha may be the champion of the moon
-- The champion with the crown can destroy the orc threat
+- Shedatha may be the [[champion of the moon]]
+- The champion with the crown can destroy the orc threat ^cecb95
 
 The warning about Mayhearth previously from Halward was just that if [[Quick-Rhett|Rhett]] is there, it may make our job to get the map more difficult.
 
@@ -179,8 +181,8 @@ The warning about Mayhearth previously from Halward was just that if [[Quick-Rhe
 - LAs mother is in Mayhearth and could provide us with resources ^fa76c5
 - LA only wishes to aid us
 	- she must keep to her duties
-- WE told LA about Vorian & Rhetts house in Copperhead and potential links to [[The-Crimson-Grin|the grin]]
-- We showed the book form ferro's chest to LA
+- We told LA about Vorian & Rhetts house in Copperhead and potential links to [[The-Crimson-Grin|the grin]]
+- We showed the book from ferro's chest to LA
 	- She says it is not of this plane
 	- Marthy speaks infernal and her and Oz could help with translation
 	- Oz goes through what he knows so far with LA for about an hour
@@ -188,18 +190,11 @@ The warning about Mayhearth previously from Halward was just that if [[Quick-Rhe
 - told her about ferro and merriak
 sword is a +1 sword
 
-Halwrd took shed to the back of the temple and gifted her with the Gloves of the two faced goddess
+Halward took Shed to the back of the temple and gifted her with the [[Gloves of the two faced goddess]]
 
-We head to the taven to rest for the night and think about what we are doing next
-
-
-
+We head to the tavern to rest for the night and think about what we are doing next
 
 - Jurgen mentioned that he had command of his unit at one point
-
--
-
-
 
 ## Loose Ends
 - ~~Need to ask [[Halward-Priest-of-Selune|Halward]] how he found out how [[Quick-Rhett|Rhett]] had the map~~
@@ -210,7 +205,10 @@ We head to the taven to rest for the night and think about what we are doing nex
 
 - Halward has been assembling a prophecy.
 	- Offers to show us his notes
+- What is the champion of the moon?
 
+- Why is Lady Aliyah looking into the crimson grin
+- Was lady aliyah concerned about someone in Winterfield? WHy did she ask if anyone was sent here to find someone?
 
 
 - the orc in the cage
