@@ -1,8 +1,9 @@
 ---
 tags: faction
-aliases: []
+aliases: [Knights of the Red]
 ---
-# Red-Knight
+# Knights of the Red
+
 ![[redknight-10.jpg]]
 
 ## Known Members

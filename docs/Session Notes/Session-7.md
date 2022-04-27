@@ -12,7 +12,8 @@ Date of session: 2022-04-13
 In-game day count: Day 18 to Day 22   
 
 ## Session Summary
-We travelled back into Winterfield with the knights & the Royal Messenger, and started to all have [[The-Partys-Shared-Dream]] each night. Upon arriving at Winterfield we headed to the Temple to see [[Halward-Priest-of-Selune|Halward]], he was expecting us and told us [[Lady-Aliyah|Lady Aliyah]] wanted to know when we arrived. [[Lady-Aliyah|Lady Aliyah]] tested the trustworthiness of the party, apart from Shed (who has the trust of her god, [[Tyr]]), and we talked about [[The-Partys-Shared-Dream]] we had been having as a group, the Arcane Forge, Halwards prophecy and Halwards and Lady A's dreams.  
+We travelled back into Winterfield with the knights & the Royal Messenger, and started to all have [[The-Partys-Shared-Dream|a shared dream]] each night. Upon arriving at Winterfield we headed to the Temple to see [[Halward-Priest-of-Selune|Halward]], he was expecting us and told us [[Lady-Aliyah|Lady Aliyah]] wanted to know when we arrived.  
+[[Lady-Aliyah|Lady Aliyah]] tested the trustworthiness of the party, apart from Shed (who has the trust of her god, [[Tyr]]), and we talked about [[The-Partys-Shared-Dream|the shared dream]] we have been having as a group, the Arcane Forge, Halwards prophecy, and Halwards and Lady Aliyah's dreams.  
 We headed to the tavern afterwards to rest for the night and to consider our next move.
 
 ## Log
@@ -41,9 +42,9 @@ We just fought the orcs and agreed to travel with the knights at the behest of t
 - Picked up the knights with him from Fort Whitall
 - [[Eachann]] decides to try writing a ballad about him
 
-[[Sir-Ferro-of-House-Galawin|Sir Ferro]]'s loot ^9467f3
-	- The dagger is a fine dagger
-	- The sword seems magical (is also flavourless)
+######  [[Sir-Ferro-of-House-Galawin|Sir Ferro]]'s loot ^9467f3
+- The dagger is a fine dagger
+- The sword seems magical (is also flavourless)
 
 The party move back to their own camp and talk about the [[Coded Letter for Quick Rhett|coded letter]] picked up from Rhetts house, talking about his debt to something called [[The-Crimson-Grin|the grin]].
 - No-one in the party has heard of them.
@@ -166,6 +167,7 @@ We ask about [[Aliyah-and-halwards-dream|the dreams Lady Aliyah and Halward]] ha
 Suggests that we may want to travel with her to Mayhearth
 
 Halward
+
 - Shedatha may be the [[champion of the moon]]
 - The champion with the crown can destroy the orc threat ^cecb95
 
@@ -214,4 +216,7 @@ We head to the tavern to rest for the night and think about what we are doing ne
 - the orc in the cage
 - what were the messages for LA and the mayor from Prince Jasper
 
-- fix attachments folder not showing in github pages
+
+###### Formatting stuff
+- Attachments folder not showing in github pages
+- mkdocs materials is not respecting line break for bulletpoint list after standard line of text.
