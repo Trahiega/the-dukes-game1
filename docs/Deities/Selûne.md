@@ -6,6 +6,6 @@ aliases: [Selune]
 Sister is [[Shar]], the goddess of night.
 
 ## Known Worshippers
-[[Shedatha]]
-[[Halward-Priest-of-Selune|Halward]]
-[[Marphi]]
+[[Shedatha]]  
+[[Halward-Priest-of-Selune|Halward]]  
+[[Marphi]]  

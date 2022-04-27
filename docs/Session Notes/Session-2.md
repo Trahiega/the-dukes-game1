@@ -6,7 +6,7 @@ date created: 2022-04-07
 game_date: 2022-02-02
 tags: session-notes
 ---
-# Session 2 - Gnoll attack, and the fate of [[Sir-Ferro-of-House-Galawin|Sir Ferro]]
+# Session 2 - Gnoll attack, and the fate of Sir Ferro
 Date of session: 2022-02-02  
 In-game day count: Day 4 to Day 5
 

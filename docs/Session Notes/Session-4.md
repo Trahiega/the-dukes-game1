@@ -6,7 +6,7 @@ date created: 2022-04-09
 game_date: 2022-03-02
 tags: session-notes
 ---
-# Session-4
+# Session 4 - Skorris gets beat, we find Rhett's house
 Date of session: 2022-03-02  
 In-game day count: Day 12
 

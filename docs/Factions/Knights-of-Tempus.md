@@ -2,7 +2,7 @@
 tags: faction
 aliases: []
 ---
-# Tempus
+# Knights of Tempus
 ![[tempus-07.jpg]]
 
 ## Known Members

@@ -9,6 +9,15 @@ This text here uses double line break
 
 creating a new paragraph.
 
+Mkdocs or the material theme does not show bullet list without full line between start of list and normal line of text.
+
+Text
+- list that will not show in mkdocs/material
+
+Text
+
+- List that will render correctly
+
 ## Links
 Obsidian will automatically update both wikilinks and markdown links when changing the file names.
 
@@ -51,7 +60,6 @@ Add the link, and after the file name enter ^, then if you search for the "block
 See [[Lady-Aliyah#^cf5283]]
 
 # Heading 1
-Above is heading 1
 ## Heading 2
 ### Heading 3
 #### Heading 4

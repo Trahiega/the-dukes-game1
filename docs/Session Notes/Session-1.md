@@ -18,7 +18,7 @@ The party meets [[Halward-Priest-of-Selune|Halward the priest]] at the Temple of
 ## Log
 ##### D1 Party meets in the Temple of Selune in Winterfield to speak to the priest.
 - [[Halward-Priest-of-Selune|Halward]], late 40s, balding, friendly
-- **100g** each to retrieve the map to the Arcane Forge (in the mountains underground), an item of great value to the Temple of Selune was lost there.
+- **100g** each to retrieve the map to [[The-Arcane-Forge|the Arcane Forge]] (in the mountains underground), an item of great value to the Temple of Selune was lost there.
 	- The Moonlit Crown
 	- "When it is restored to it's rightful place, Selune's glory will be restored to the world" - *Did [[Halward-Priest-of-Selune|Halward]] say this? I don't remember*
 - [[Quick-Rhett|Quick Rhett]] has acquired the map and has been forming a group to go out and seek the treasure.

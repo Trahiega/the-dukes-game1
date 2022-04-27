@@ -7,7 +7,7 @@ game_date: AX
 tags: session-notes
 aliases: [Session 5]
 ---
-# Session 5
+# Session 5 - A swift exit from Copperhead
 Date of session: 2022-01-19  
 In-game day count: Day 12 to Day 15  
 

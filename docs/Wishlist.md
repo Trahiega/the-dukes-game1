@@ -3,7 +3,7 @@
 #### Maps  
 - [x] Map of Winterfield
 - [x] Map of Copperhead
-- [x] Map to the Arcane Forge
+- [x] Map to [[The-Arcane-Forge|the Arcane Forge]]
 
 #### NPCs   
 - [x] Sir Fared Dalan, Royal Messenger

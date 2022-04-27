@@ -7,7 +7,7 @@ game_date: AX
 tags: session-notes
 aliases: [Session 6]
 ---
-# Session-6
+# Session 6 - Orcs in the pass
 Date of session: 2022-01-19  
 In-game day count: Day 16 to Day 18  
 
