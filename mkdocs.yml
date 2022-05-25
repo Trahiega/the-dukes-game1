@@ -1,7 +1,7 @@
 site_name: The Duke's Game, a D&D5e campaign
 
 theme:
-  - name: 'material'
+- name: 'material'
   palette:
   language: en
   features:
