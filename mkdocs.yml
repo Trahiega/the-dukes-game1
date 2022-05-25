@@ -3,6 +3,9 @@ site_name: The Duke's Game, a D&D5e campaign
 theme:
     name: 'material'
     palette:
+    language: en
+    features:
+        - search.suggest
 
     # Light mode
     - media: "(prefers-color-scheme: light)"

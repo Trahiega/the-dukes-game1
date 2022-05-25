@@ -181,9 +181,9 @@ Halward
 
 The warning about Mayhearth previously from Halward was just that if [[Quick-Rhett|Rhett]] is there, it may make our job to get the map more difficult.
 
-- Prince Jasper is the heir to the throne
+- Prince Jasper is the heir to the throne ^2e28a4
 - The woman in the cage is linked to [[The-Crimson-Grin|The Crimson Grin]]
-	- named [[Carrie]]
+	- named [[Kari]]
 	- She is on the run from [[The-Crimson-Grin|the grin]]
 	- She bears the tattoos, believes [[The-Crimson-Grin|the grin]] are taking over as a criminal enterprise
 	- Lady Aliyah has offered her protection for information, she will be staying in WF with Halward
@@ -222,10 +222,11 @@ We head to the tavern to rest for the night and think about what we are doing ne
 
 
 - the orc in the cage
-- what were the messages for LA and the mayor from Prince Jasper
+- what were the messages for LA and the mayor from [[Prince Jasper]]
 
 
 ###### Formatting stuff
 - Attachments folder not showing in github pages
 - mkdocs materials is not respecting line break for bulletpoint list after standard line of text.
 - Uses bullets instead of numbers.
+- Hide block references from gh pages

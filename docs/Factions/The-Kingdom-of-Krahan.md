@@ -9,3 +9,8 @@ Founded by [[Krahan]].
 [[Winterfield]]  
 [[Copperhead]]  
 [[Fort-Whitall|Fort Whitall]]  
+[[Tyr's Hollow]]
+
+[[Temple of Selune]]
+
+

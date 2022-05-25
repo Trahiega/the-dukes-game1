@@ -1,23 +1,7 @@
 # Quests & Questions
 ## Loose Ends
-#### Halward
-- I don't think we ever asked what he meant by "There have been developments since we left"
-- Halward said he warned Rhett about travelling, but Rhett managed to make it back to Copperhead despite the harsh winter weather, did he take a special route?
-- Offered to show us his notes
-- Was Halward having these dreams about Shed before we set off to acquire the map for him?
-
-#### Aliyah
-- Why is Aliyah looking into the Crimson Grin?
-- Why did she ask if any of us were sent to WF to look for someone? Is there someone she is concerned about?
-- The orc in the cage when we met her travelling through [[Bandits-Way|Bandit's Way]].
-- What is an inquisitor?
-
 #### Ozmir
 Why was Ozmir forced to leave his ship and crew?
-
-#### What were the messages carried by the [[Sir Fared Dalan, Royal Messenger|Royal Messenger]]?  
-- One for Lady Aliyah, from Prince Jasper
-- One for the Mayor
 
 ## Questions
 ### Thieves in the night
@@ -49,9 +33,12 @@ In [[Session-7|Session 7]] the party all experience a [[The-Partys-Shared-Dream|
 - Ozmir was the first of the party to have the dream.
 	- Reason why?
 
+### The Arcane Forge
+[[The-Arcane-Forge|Arcane Forge]]
+
 
 
 ### Completed Quests
-- Retrieve the [[Map-to-the-Arcane-Forge|map to the Arcane Forge]]
-	- Quest from [[Halward-Priest-of-Selune|Halward]], Reward: 100g each [[Session-1|Session 1]]
+- Retrieve the [[The-Arcane-Forge#Map to the Arcane Forge|map to the arcane forge]]
+	- Quest from [[Halward-Priest-of-Selune|Halward]], Reward: 100g each. [[Session-1|Session 1]]
 	- We retrieved the map from Copperhead and returned it. [[Session-7|Session 7]]

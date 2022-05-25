@@ -2,7 +2,7 @@
 tags: NPC
 aliases: []
 ---
-# Carrie
+# Kari
 On the run from [[The-Crimson-Grin|The Crimson Grin]], Carrie has made a deal with [[Lady-Aliyah|Lady Aliyah]], protection for information. She will be staying with [[Halward-Priest-of-Selune|Halward]] in [[Winterfield]].
 
 She bears the tattoos of the grin, the grin are taking over as a criminal enterprise.

@@ -19,13 +19,13 @@ You command the very shadows cast by the moonlight to bring you what you desire.
 
 A band of silver etched with the phases of the moon – The shadows grip this image the hardest, curling and straining around it, pulling it ever so slowly into your grasp.
 
-A suit of armour seemingly on fire – Markus and Eachan, you both transcend this plane to another realm entirely, one of fire and chaos and war, your vision becomes that of the warrior wearing this suit of armour. Horrifying fiendish creatures fall to the warriors blade but they are endless, eventually the warrior falls and the armour is cracked, your vision then follows the blood flowing from the wound and you return to back to see
+A suit of armour seemingly on fire – [[Markus]] and [[Eachann]], you both transcend this plane to another realm entirely, one of fire and chaos and war, your vision becomes that of the warrior wearing this suit of armour. Horrifying fiendish creatures fall to the warriors blade but they are endless, eventually the warrior falls and the armour is cracked, your vision then follows the blood flowing from the wound and you return to back to see
 
 A shield with a real face, angry and shouting at you, but making no noise – Skorris you start to feel suffocated as you see this image, your vision blackens and you feel a great weight of earth upon you, you feel the shifting of mountains and the flow of rivers above, you body burns with pain as you feel your bones crushed, your blood pollutes the earth, but you can never die, something has bound you to this prison for eternity, somehow you know that this prison lies under the mountain of [[Mor-Badir|Mor Badir]]. Your vision then fades back
 
 A cloak made of scales of melting ice – [[Jurgen]] you are filled with the knowledge that these scales are that of a dragon. Your vision flashes for a second and you see a an ancient white dragon perched atop of a large mountain of melting ice. Within that mountain lies a horde of gold, and the bones of many elves.
 
-A white banner edged in black, stained with blood. - Shed you see other images flickering in place of the banner, a wolf howling at the moon, a sword, a shield and a spear all  daubed white, strange runes dance and flicker, at first you take them for Dwarven, but they are different somehow, looking more orcish, but making no sense in either language.
+A white banner edged in black, stained with blood. - [[Shedatha|Shed]] you see other images flickering in place of the banner, a wolf howling at the moon, a sword, a shield and a spear all  daubed white, strange runes dance and flicker, at first you take them for Dwarven, but they are different somehow, looking more orcish, but making no sense in either language.
 
 All of you look up except for [[Ozmir]], above you high in the sky for as far as you can see, you see a battle taking place, the image is blurred and distorted, as though you were under water looking up. Bright flashes light up the sky silhouetting the distorted figures of the fighting creatures of all shapes and sizes.
 

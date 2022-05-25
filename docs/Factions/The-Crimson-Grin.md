@@ -1,11 +1,13 @@
 ---
 tags: faction
-aliases: [The Crimson Grin, The Grin]
+aliases: [The Crimson Grin, The Grin, Crimson Grin]
 ---
 # The Crimson Grin
 [[Lady-Aliyah|Lady Aliyah]] is investigating the grin.
 
 They have been linked to the murder of an investigator.
+
+Assassin's attacked the party in [[Winterfield]] after their meeting with Lady Aliyah in [[Session-8]]
 
 ### The Grin & Quick Rhett
 The [[Coded Letter for Quick Rhett]] seems to be from a group called The Grin.

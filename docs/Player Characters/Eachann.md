@@ -12,7 +12,8 @@ Not a member of the [[Bard's Guild]]
 
 Has a friendly rivalry with [[Ozmir]]
 
-Plays the lute?
+Plays the yarting
+![[Yarting-2e.webp]]
 
 Is learning Orcish from [[Shedatha]]  
 

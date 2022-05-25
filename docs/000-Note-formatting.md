@@ -50,6 +50,28 @@ Once you've set an alias you can use it to create links.
 ## Footnotes
 See [[Lady-Aliyah|Lady Aliyah]] page for example
 
+```md
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: meaningful!
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
+```
+
+Here's a simple footnote,[[1]](https://publish.obsidian.md/#fn-1-880fc4b3d32af64e) and here's a longer one.[[2]](https://publish.obsidian.md/#fn-2-880fc4b3d32af64e)
+
+```md
+You can also use inline footnotes. ^[notice that the carat goes outside of the brackets on this one.]
+```
+
+You can also use inline footnotes. [[3]](https://publish.obsidian.md/#fn-3-880fc4b3d32af64e)
+
 ## Linking to Blocks
 Linking to Blocks is Obsidian flavour markdown and does not work outside of Obsidian.
 
