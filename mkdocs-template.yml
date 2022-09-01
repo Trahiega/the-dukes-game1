@@ -1,13 +1,14 @@
-site_name: The Duke's Game, a D&D5e campaign
+site_name: obsidian-mkdocs template
 
 theme:
     name: 'material'
-    palette:    language: en    features:    - search.suggest
+    palette:
+
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: red
-      accent: amber
+      primary: pink
+      accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -15,8 +16,8 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: red
-      accent: amber
+      primary: pink
+      accent: blue
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
