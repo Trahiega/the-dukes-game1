@@ -2,7 +2,7 @@
 tags: PC 
 aliases: [Oz]
 ---
-# Ozmir
+# Ozmir Zerris
 Tiefling Rogue
 
 Plays the bagpipes

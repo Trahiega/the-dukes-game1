@@ -21,7 +21,7 @@ Note: The assassins had tattoos of [[The-Crimson-Grin|The Crimson Grin]].
 
 ##### At the Winterfield Tavern
 We slept at the inn with no dreams, no visions
-Looking around at breakfast we note a bard in the tavern (with a lute), also a gnome.
+Looking around at breakfast we note a bard in the tavern (with a lute), also a [[League Gnome|gnome]].
 
 Skorris mentions [[Tyr's Hollow]]
 - There is a dwarf there he should speak to, knows his way underground, to [[Mor-Badir|Mor Badir]]
@@ -29,8 +29,8 @@ Skorris mentions [[Tyr's Hollow]]
 
 We plan to head and see the dwarf before heading to [[The Burning Lake]], following the [[Map-to-the-Arcane-Forge]]
 
-##### Shopping with the gnomish travelling merchant
-The gnome from the tavern(?) is a travelling merchant with some magical goods for sale.  
+##### Shopping with the gnomish travelling merchant[]()
+[[GnomeIThe gnome from the tavern]](?) is a travelling merchant with some magical goods for sale.  
 - Oz bought Fire Wine
 - Eachann got a cloak of dramatic Entrance
 	- Dwarven Moss moment

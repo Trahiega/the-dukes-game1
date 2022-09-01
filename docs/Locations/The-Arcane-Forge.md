@@ -3,6 +3,18 @@ tags: location
 aliases: [The Arcane Forge, Arcane Forge]
 ---
 # The Arcane Forge
+The Arcane Forge is located on the north east side of the Burning Lake.
+
+It is in a long abandoned dwarven hold, goblins live there currently.
+
+Markus holds the artifact that allows entrance into the forge. and used it to forge a set of armour with the adamantite found in the area.
+
+
+## Goblin residents
+The party made frends with the goblins
+
+
+
 
 The Arcane Forge is believed to be in the mountains underground, and may contain the [[Moonlit Crown]]
 
